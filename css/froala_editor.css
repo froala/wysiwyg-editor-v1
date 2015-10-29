@@ -685,7 +685,8 @@ hr.fr-tag {
 .froala-editor i.for-text {
   font-style: normal;
   font-weight: bold;
-  padding-left: 4px;
+  padding: 4px;
+  width: auto;
 }
 .froala-editor .fr-dropdown {
   display: inline-block;
@@ -1024,7 +1025,7 @@ hr.fr-tag {
   line-height: 35px;
   display: inline-block;
   cursor: pointer;
-  width: 40px;
+  min-width: 40px;
   text-align: center;
   margin: 0px;
   -webkit-transition: background linear 0.1s;
