@@ -1,6 +1,6 @@
 #Froala WYSIWYG HTML Editor
 
-## This repo contains the version 1 of the editor. For version 2, please use https://github.com/froala/froala-wysiwyg.
+## This repo contains the version 1 of the editor which is no longer maintained. Please use version 2 instead https://github.com/froala/froala-wysiwyg.
 
 > One of the most powerful WYSIWYG HTML text editors ever and designed to stay that way. A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing.
 
@@ -22,15 +22,10 @@ We use GitHub Issues as the official bug tracker for the Froala WYSIWYG HTMl Edi
 If you have questions or need help integrating the editor please [contact us](https://www.froala.com/wysiwyg-editor/contact) instead of opening an issue.
 
 ## Licensing
-
 In order to use the Froala Editor you have to purchase one of the following licenses according to your needs. You can find more about that on our website on the [pricing plan page](https://www.froala.com/wysiwyg-editor/pricing).
 
-1. Single Website - $59
-2. Advanced - $119
-4. OEM - $399
 
 ## Useful links
-
 * Official website:  [froala.com/wysiwyg-editor](https://www.froala.com/wysiwyg-editor)
 * Official download: [froala.com/wysiwyg-editor/pricing](https://www.froala.com/wysiwyg-editor/pricing)
 * Official documentation:  [froala.com/wysiwyg-editor/docs](https://www.froala.com/wysiwyg-editor/docs)
